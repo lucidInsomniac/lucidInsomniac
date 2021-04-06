@@ -4,10 +4,10 @@
 
 
 ## What I'm currently working on
-Building up my portfolio to start job hunting.
+Building up my portfolio to start job hunting, transitioning collaboration group project from code camp into an open source, and re-working my solo MVP for my job, re-designing the database schema, user workflow, UX/UI design, and components.
 
 ## What I'm currently learning
-How to build JAM Stack web apps, transitioning collaboration group project from code camp into an open source, and more front-end development technologies, local storage in React JS and finally working on building my pwnagotchi. Then on to learning/playing with Kali Linux.
+How to build JAM Stack web apps, learn front-end development technologies, local storage in React JS and finally working on building my pwnagotchi. Then on to learning/playing with Kali Linux.
 
 ## How to contact me
 
