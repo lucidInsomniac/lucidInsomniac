@@ -4,7 +4,7 @@
 
 
 ## What I'm currently working on
-Building up my portfolio to start job hunting, blogging, mentoring, transitioning collaboration group project from code camp into an open source, and re-working my solo MVP for my job, re-designing the database schema, user workflow, UX/UI design, and components.
+Building up my portfolio to start job hunting, blogging, mentoring, transitioning collaboration group project from code camp into an open source, and re-working my solo MVP for my job: re-designing the database schema, user workflow, UX/UI design, and components.
 
 ## What I'm currently learning
 How to make a pixel rpg game, Three.js, build JAM Stack web apps, learn front-end development technologies, local storage in React JS and finally working on building my pwnagotchi. Then on to learning/playing with Kali Linux.
