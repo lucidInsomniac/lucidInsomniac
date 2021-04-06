@@ -7,7 +7,7 @@
 Building up my portfolio to start job hunting.
 
 ## What I'm currently learning
-How JAM Stack web apps, transitioning collaboration group project from code camp into an open source, and more front-end development technologies
+How to build JAM Stack web apps, transitioning collaboration group project from code camp into an open source, and more front-end development technologies, local storage in React JS and finally working on building my pwnagotchi. Then on to learning/playing with Kali Linux.
 
 ## How to contact me
 
