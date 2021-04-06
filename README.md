@@ -24,7 +24,7 @@ All, I identify as a non-binary queer, and I don't have a preference.
 I am a huge fan of the Professor Layton video game series ONLY for Nintendo DS. And I have a soft spot for anyhthing NES, SNES and pixel art related.
 
 
-![Donna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucidInsomniac&show_icons=true&theme=synthwave)
+![Donna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucidInsomniac&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucidInsomniac)](https://github.com/lucidInsomniac/github-readme-stats)
 
