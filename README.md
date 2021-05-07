@@ -1,6 +1,6 @@
 ### Hi! I'm Donna 👋
 
-## Collegiate Athletic Equipment Manager transitioning into Full-Stack Web Developer
+## Collegiate Athletic Equipment Manager transitioning into Full-Stack Web Developement
 
 
 ## What I'm currently working on
@@ -11,9 +11,9 @@ How to make a pixel rpg game, Three.js, build JAM Stack web apps, learn front-en
 
 ## How to contact me
 
-![Blog](https://dev.to/donnachin)
+[Blog](https://dev.to/donnachin)
 
-![Twitter](https://twitter.com/DchinInsomniac)
+[Twitter](https://twitter.com/DchinInsomniac)
 
 ## Pronouns: 
 
