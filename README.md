@@ -59,19 +59,26 @@ HTML, and Python
 
 [Twitter](https://twitter.com/DchinInsomniac)
 
+[Codepen](https://codepen.io/lucidinsomniac/pens/public)
+
 ## Communities
 
 [CodeOp Community, Alum, Active Member](https://codeop.tech/)
+
 [CodeNewbie Community, Active Member](https://community.codenewbie.org/lucidinsomniac)
+
 [Queer CUNY, Alumn, Active Member](https://queercuny.wixsite.com/website)
+
 [NYC Queer Liberation March, Volunteer](https://reclaimpridenyc.org)
+
 [Trans Wellness Conference, Volunteer](http://www.transphl.org/)
+
 [Openprocessing, creative coder](https://openprocessing.org/)
 
 ## Hobbies
 
 - Creating art, self-taught traditional and digital artist
-- Photography, selft-taught
+- Photography, selft-taught, [IMdb](https://www.imdb.com/name/nm6724153/)
 - Training for half-marathons
 - Learning Languages, currently B1 level in German
 
