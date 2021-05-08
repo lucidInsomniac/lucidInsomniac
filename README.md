@@ -29,7 +29,10 @@ HTML, and Python
 ## Things in my learning queue
 - Cypress
 - Jest
+- Typescript
 - Severless Technologies
+- Scalability
+- Clean and resuable code practices
 - App Optimization
 - Automation with Python, Currently enrolled in Grow with Goolge Professional IT Automationg with Python Certification
 - QA testing methods, and software
