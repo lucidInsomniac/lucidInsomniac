@@ -1,27 +1,81 @@
 ### Hi! I'm Donna 👋
 
+## Pronouns: 
+
+All, I identify as a non-binary queer, and I don't have a preference.
+
+
 ## Collegiate Athletic Equipment Manager transitioning into Full-Stack Web Developement
+I am a curious full stack developer who loves learning for fun. What prompt me to switch careers is the endless learning, and the ability to make a difference in the world. My passion is always tied to education, empowering, and advocating for others. 
 
+My experience in collegiate equipment manager has taught me 
+  - be resourcesful and creative to solve problems
+  - learn to break down big projects into smaller tasks
+  - recruit efficient staff
+  - support, lead, and manage staff on projects
+  - multi-task large simultaneous projects
+  - anticipate and consider everything can go wrong
+  - have tight deadlines ex. event/game days, team distribution, inventory, gear returns, locker clear outs
 
-## What I'm currently working on
-Building up my portfolio to start job hunting, blogging, mentoring, transitioning collaboration group project from code camp into an open source, and re-working my solo MVP for my job: re-designing the database schema, user workflow, UX/UI design, and components.
+## Previous experience with Programming
+HTML, and Python
 
-## What I'm currently learning
-How to make a pixel rpg game, Three.js, build JAM Stack web apps, learn front-end development technologies, local storage in React JS and finally working on building my pwnagotchi. Then on to learning/playing with Kali Linux.
+## Current Projects
+
+- revise [MVP Equipment Management App for work](https://github.com/lucidInsomniac/CodeOpMVPRamUp)
+- revise and transition group collaborative project on Learning and Cognitive App for Non-Verbal Disabled Children
+- Build apps with different stacks
+
+## Things in my learning queue
+- Cypress
+- Jest
+- Severless Technologies
+- App Optimization
+- Automation with Python, Currently enrolled in Grow with Goolge Professional IT Automationg with Python Certification
+- QA testing methods, and software
+- UX/UI, Currently enrolled in Grow with Google UX/UI Certification
+- Web Accessibility practices, testing and standards, completing Intro to Web Accessibility Certificate
+- A11y.js 
+- Three.js , Currently enrolled in Bruno Simon's ThreeJS Journey
+- WebGL and Canvas
+- Processing
+- p5.js
+- blender
+- Golang
+- refresh Python
+- Java
+- Kotlin
+- Swift
+
 
 ## How to contact me
+
+[LinkedIn](https://www.linkedin.com/in/donna-chin-151ba814/)
 
 [Blog](https://dev.to/donnachin)
 
 [Twitter](https://twitter.com/DchinInsomniac)
 
-## Pronouns: 
+## Communities
 
-All, I identify as a non-binary queer, and I don't have a preference.
+[CodeOp Community, Alum, Active Member](https://codeop.tech/)
+[CodeNewbie Community, Active Member](https://community.codenewbie.org/lucidinsomniac)
+[Queer CUNY, Alumn, Active Member](https://queercuny.wixsite.com/website)
+[NYC Queer Liberation March, Volunteer](https://reclaimpridenyc.org)
+[Trans Wellness Conference, Volunteer](http://www.transphl.org/)
+[Openprocessing, creative coder](https://openprocessing.org/)
+
+## Hobbies
+
+- Creating art, self-taught traditional and digital artist
+- Photography, selft-taught
+- Training for half-marathons
+- Learning Languages, currently B1 level in German
+
 
 ## Fun fact: 
 
-I am a huge fan of the Professor Layton video game series ONLY for Nintendo DS. And I have a soft spot for anyhthing NES, SNES and pixel art related.
+I am a huge fan of the Professor Layton video game series for Nintendo DS. And I have a soft spot for anyhthing NES, SNES and pixel art related.
 
 
 ![Donna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucidInsomniac&show_icons=true&theme=tokyonight)
