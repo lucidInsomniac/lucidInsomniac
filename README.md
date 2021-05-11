@@ -6,7 +6,7 @@ All, I identify as a non-binary queer, and I don't have a preference.
 
 
 ## Collegiate Athletic Equipment Manager transitioning into Full-Stack Web Developement
-I am a curious full stack developer who loves learning for fun. What prompt me to switch careers is the endless learning, and the ability to make a difference in the world. My passion is always tied to education, empowering, and advocating for others. 
+I am a curious full stack developer who loves learning for fun. What prompt me to switch careers is the ability to do more for the public education system, and for people who are less fortunate in accessing educational services. My passion is always tied to education, empowering, and advocating for others. 
 
 My experience in collegiate equipment manager has taught me 
   - be resourcesful and creative to solve problems
@@ -23,8 +23,23 @@ HTML, and Python
 ## Current Projects
 
 - revise [MVP Equipment Management App for work](https://github.com/lucidInsomniac/CodeOpMVPRamUp)
-- revise and transition group collaborative project on Learning and Cognitive App for Non-Verbal Disabled Children
+- revise and transition group collaborative project on [cognitive assesment and improve learning App for Non-Verbal Disabled Children](https://github.com/lucidInsomniac/Cognitive-Learning-App)
 - Build apps with different stacks
+
+## Completed Projects
+- RampUp '!' 
+
+[Video Demo for RampUP Part 1](https://drive.google.com/file/d/1mvpBhhZYq5RSLSaMR_ACgR2-rKdx0UrJ/view?usp=sharing)
+
+[Video Demo for RampUP Part 2](https://drive.google.com/file/d/1stYrK-k7rToSI9Sqzqr0aVmJ3k-qmTX3/view?usp=sharing)
+
+- Quote-O-Meter Feature extension
+
+[Video Demo for Quote-O-Meter Feature Extension](https://drive.google.com/file/d/1ZzkwW6DLrlEGxe2v-I5rojLkzv4sMo4C/view?usp=sharing)
+
+- Cognitive Assessment and Improve Learning App for Non-Verbal Disabled Children
+
+[Video Demo for Cognitive Assessment and Improve Learning App](https://drive.google.com/file/d/1AYYXG5DJHS855e6AWzCerE2oHA36BRGa/view?usp=sharing)
 
 ## Things in my learning queue
 - Cypress
