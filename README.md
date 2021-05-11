@@ -78,6 +78,8 @@ HTML, and Python
 
 ## Communities
 
+[New York City East Science Olympiad, Volunteer](http://www.nyceastscioly.org/home.html)
+
 [CodeOp Community, Alum, Active Member](https://codeop.tech/)
 
 [CodeNewbie Community, Active Member](https://community.codenewbie.org/lucidinsomniac)
