@@ -95,7 +95,7 @@ HTML, and Python
 ## Hobbies
 
 - Creating art, self-taught traditional and digital artist
-- Photography, selft-taught, [IMdb](https://www.imdb.com/name/nm6724153/)
+- Photography, selft-taught, [IMdb](https://www.imdb.com/name/nm4819576/?ref_=fn_al_nm_2)
 - Training for half-marathons
 - Learning Languages, currently B1 level in German
 
