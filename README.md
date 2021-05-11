@@ -8,7 +8,7 @@ All, I identify as a non-binary queer, and I don't have a preference.
 ## Collegiate Athletic Equipment Manager transitioning into Full-Stack Web Developement
 I am a curious full stack developer who loves learning for fun. What prompt me to switch careers is the ability to do more for the public education system, and for people who are less fortunate in accessing educational services. My passion is always tied to education, empowering, and advocating for others. 
 
-My experience in collegiate equipment managent has taught me to
+My experience in collegiate equipment management has taught me to
   - be resourceful and creative to solve problems
   - learn to break down big projects into smaller tasks
   - recruit efficient staff
@@ -23,7 +23,7 @@ HTML, and Python
 ## Current Projects
 
 - revise my [Equipment Management App for NYU Athletics](https://github.com/lucidInsomniac/CodeOpMVPRamUp) for mobile and web
-- revise international group collaboration on a [cognitive assesment and learning App for Non-Verbal Disabled Children](https://github.com/lucidInsomniac/Cognitive-Learning-App) for open-source
+- revise my international group collaboration project on a [cognitive assesment and learning App for Non-Verbal Disabled Children](https://github.com/lucidInsomniac/Cognitive-Learning-App) for open-source
 - Build apps with different stacks
 
 ## Completed Projects
