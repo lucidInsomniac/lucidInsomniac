@@ -9,7 +9,7 @@ All, I identify as a non-binary queer, and I don't have a preference.
 I am a curious full stack developer who loves learning for fun. What prompt me to switch careers is the ability to do more for the public education system, and for people who are less fortunate in accessing educational services. My passion is always tied to education, empowering, and advocating for others. 
 
 My experience in collegiate equipment manager has taught me 
-  - be resourcesful and creative to solve problems
+  - be resourceful and creative to solve problems
   - learn to break down big projects into smaller tasks
   - recruit efficient staff
   - support, lead, and manage staff on projects
